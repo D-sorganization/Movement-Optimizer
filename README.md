@@ -1,3 +1,14 @@
+# ⛔ DEPRECATED — this repository has moved
+
+> **Movement Optimizer now lives in the [D-sorganization/Tools](https://github.com/D-sorganization/Tools) monorepo at [`src/movement_optimizer/`](https://github.com/D-sorganization/Tools/tree/main/src/movement_optimizer).**
+>
+> This standalone repository is **archived and read-only**, kept only to preserve its original git history. **All active development, issues, and pull requests happen in the Tools monorepo** — and the in-Tools version is more advanced than anything here (async policy worker, cached force fields, modular GUI split).
+>
+> **Do not branch, build, or open PRs against this repository.**
+> 👉 Go to **[D-sorganization/Tools → `src/movement_optimizer/`](https://github.com/D-sorganization/Tools/tree/main/src/movement_optimizer)**.
+
+---
+
 # Movement Optimizer
 
 [![CI](https://github.com/D-sorganization/Movement-Optimizer/actions/workflows/ci-standard.yml/badge.svg)](https://github.com/D-sorganization/Movement-Optimizer/actions/workflows/ci-standard.yml)
